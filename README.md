@@ -1,2 +1,12 @@
-# bootcamp-bradesco-genai-dados
-Repositório dedicado aos projetos e desafios práticos desenvolvidos durante o Bootcamp Bradesco - GenAI &amp; Dados, focado em Inteligência Artificial Generativa e Análise de Dados. O programa abrange desde a curadoria de dados até a engenharia de prompts e automação de processos utilizando modelos avançados de IA.
+# Bootcamp Bradesco - GenAI e Dados
+
+Este repositório contém as atividades práticas realizadas durante o bootcamp promovido pelo **Bradesco** em parceria com a **DIO**. O foco principal é a utilização estratégica de IA Generativa para otimizar o aprendizado e a análise de dados.
+
+## 🚀 Desafios Realizados:
+* **Caderno Temático no NotebookLM:** Curadoria de fontes financeiras e estruturação de conhecimento usando Engenharia de Prompts.
+
+
+## 🛠️ Tecnologias e Ferramentas:
+* Google NotebookLM
+* IA Generativa (Engenharia de Prompts)
+* Curadoria de Dados
