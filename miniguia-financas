@@ -1,0 +1,67 @@
+# Miniguia: Finanças para Iniciantes 🚀
+*Projeto desenvolvido para o Bootcamp Bradesco - GenAI e Dados (DIO)*
+
+Este guia consolida os fundamentos da saúde financeira, desde a mentalidade comportamental até a estratégia de investimentos, com o objetivo de promover a autonomia e a cidadania financeira.
+
+---
+
+## 1. Glossário Estratégico de Conceitos
+
+| Termo | Definição Simplificada | Importância Prática | Referência |
+| :--- | :--- | :--- | :--- |
+| **CDB** | Título onde você "empresta" dinheiro para um banco em troca de juros. | Alternativa à poupança com melhor rentabilidade e proteção do FGC. | Análise Sistêmica / Livro TOP |
+| **CDI** | Taxa de juros de empréstimos entre bancos. | Referência (benchmark) para o rendimento de investimentos de renda fixa. | Análise Sistêmica |
+| **CET** | Taxa real de um empréstimo, incluindo juros, impostos e taxas. | Essencial para comparar qual crédito é realmente mais barato. | Caderno BCB |
+| **Inflação** | Aumento de preços que reduz o poder de compra do dinheiro. | Exige que o investidor busque rendimento acima dela para ter ganho real. | Análise Sistêmica |
+| **Juros Compostos** | Juros calculados sobre o capital inicial e sobre os juros acumulados. | Motor da riqueza no longo prazo e acelerador de dívidas se mal gerido. | Caderno BCB |
+| **Liquidez** | Rapidez em converter um investimento em dinheiro disponível. | Define se o recurso estará acessível em caso de emergência imediata. | InfoMoney / Livro TOP |
+| **Metodologia 50/30/20** | Divisão da renda: 50% necessidades, 30% desejos, 20% metas. | Fornece equilíbrio entre consumo presente e segurança futura. | Análise Sistêmica |
+| **Reserva de Emergência** | Fundo para imprevistos, equivalente a 6 a 12 meses de despesas. | Alicerce da estabilidade; evita o endividamento em crises. | InfoMoney / Análise Sistêmica |
+| **Selic** | Taxa básica de juros da economia brasileira. | Influencia o rendimento do Tesouro Selic e o custo do crédito no país. | Caderno BCB |
+| **Suitability** | Análise do perfil de risco e objetivos do investidor. | Garante que o investimento seja compatível com a tolerância emocional. | Livro TOP CVM |
+
+---
+
+## 2. Objetivos de Aprendizado
+1. **Dimensão Comportamental:** Diferenciar "sonhos" de "projetos" e compreender vieses cognitivos.
+2. **Estruturação Orçamentária:** Aplicar as quatro etapas do orçamento (Planejamento, Registro, Agrupamento e Avaliação).
+3. **Alicerce de Segurança:** Dimensionar e alocar a Reserva de Emergência antes de migrar para a renda variável.
+
+---
+
+## 3. Pilares da Saúde Financeira
+
+### A. Mentalidade e Comportamento
+A saúde financeira exige equilíbrio entre razão e emoção. O conceito de **troca intertemporal** é central: decidir entre consumir hoje ou poupar para consumir mais amanhã.
+
+### B. Organização do Orçamento
+* **Regra de Ouro:** O orçamento deve ser superavitário (Receitas > Despesas).
+* **Pague-se Primeiro:** Separe a parcela de investimentos (20%) logo após o recebimento.
+* **Classificação de Gastos:** Elimine desperdícios e otimize os necessários.
+
+### C. Reserva de Emergência
+* **Quanto:** 6 meses de custo de vida (CLT) ou 12 meses (Autônomos).
+* **Onde:** Tesouro Selic ou CDBs com liquidez diária (mínimo 100% do CDI).
+
+---
+
+## 4. Desafios Práticos (Perguntas Estratégicas)
+
+1. **Dívida vs. Reserva:** Mariana possui dívida no cartão e recebeu um bônus. O que fazer?
+   - *Resposta:* Priorizar a quitação da dívida. Os juros da dívida crescem mais rápido que qualquer investimento.
+2. **Custo Real de Crédito:** Como comparar dois bancos com taxas diferentes?
+   - *Resposta:* Comparar pelo **CET (Custo Efetivo Total)**, que inclui todos os encargos.
+
+---
+
+## 5. Biblioteca de Prompts Reutilizáveis (IA)
+
+### Prompt 1: Glossário
+```text
+Atue como um especialista em educação financeira. Com base nas fontes, identifique os conceitos técnicos e estruture em uma tabela: Termo, Definição, Importância e Referência.
+
+###Prompt 2: Simulação de Tutor (Quiz)
+Atue como um tutor de finanças. Com base no material, elabore 5 perguntas de múltipla escolha para testar meus conhecimentos sobre planejamento orçamentário. Após eu responder, forneça o gabarito indicando em qual fonte está a resposta.
+
+###Prompt 3: Análise de Cenários Reais
+Elabore 3 perguntas dissertativas que exijam a aplicação de conceitos financeiros (como Custo Efetivo Total, reserva de emergência e juros compostos) em cenários da vida real. Forneça um guia de resposta baseado estritamente no texto das fontes.
